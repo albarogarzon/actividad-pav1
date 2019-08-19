@@ -58,19 +58,19 @@
             // 
             this.txtUsuario.Location = new System.Drawing.Point(146, 76);
             this.txtUsuario.Name = "txtUsuario";
-            this.txtUsuario.Size = new System.Drawing.Size(100, 20);
+            this.txtUsuario.Size = new System.Drawing.Size(257, 20);
             this.txtUsuario.TabIndex = 2;
             // 
             // txtClave
             // 
             this.txtClave.Location = new System.Drawing.Point(146, 128);
             this.txtClave.Name = "txtClave";
-            this.txtClave.Size = new System.Drawing.Size(100, 20);
+            this.txtClave.Size = new System.Drawing.Size(257, 20);
             this.txtClave.TabIndex = 3;
             // 
             // btnIngresar
             // 
-            this.btnIngresar.Location = new System.Drawing.Point(64, 197);
+            this.btnIngresar.Location = new System.Drawing.Point(179, 197);
             this.btnIngresar.Name = "btnIngresar";
             this.btnIngresar.Size = new System.Drawing.Size(75, 23);
             this.btnIngresar.TabIndex = 4;
@@ -80,7 +80,7 @@
             // 
             // btnSalir
             // 
-            this.btnSalir.Location = new System.Drawing.Point(171, 197);
+            this.btnSalir.Location = new System.Drawing.Point(328, 197);
             this.btnSalir.Name = "btnSalir";
             this.btnSalir.Size = new System.Drawing.Size(75, 23);
             this.btnSalir.TabIndex = 5;
@@ -92,7 +92,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(281, 244);
+            this.ClientSize = new System.Drawing.Size(484, 244);
             this.Controls.Add(this.btnSalir);
             this.Controls.Add(this.btnIngresar);
             this.Controls.Add(this.txtClave);

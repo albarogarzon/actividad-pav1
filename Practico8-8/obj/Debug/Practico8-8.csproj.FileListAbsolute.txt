@@ -19,3 +19,14 @@ C:\Users\Albaro\Documents\3 er año\PAV1\Practico Clase\Practico8-8\Practico8-8\
 C:\Users\Albaro\Documents\3 er año\PAV1\Practico Clase\Practico8-8\Practico8-8\obj\Debug\Practico8-8.csproj.CoreCompileInputs.cache
 C:\Users\Albaro\Documents\3 er año\PAV1\Practico Clase\Practico8-8\Practico8-8\obj\Debug\Practico8-8.exe
 C:\Users\Albaro\Documents\3 er año\PAV1\Practico Clase\Practico8-8\Practico8-8\obj\Debug\Practico8-8.pdb
+C:\Users\Albaro\Documents\GitHub\actividad-pav1\Practico8-8\bin\Debug\Practico8-8.exe.config
+C:\Users\Albaro\Documents\GitHub\actividad-pav1\Practico8-8\bin\Debug\Practico8-8.exe
+C:\Users\Albaro\Documents\GitHub\actividad-pav1\Practico8-8\bin\Debug\Practico8-8.pdb
+C:\Users\Albaro\Documents\GitHub\actividad-pav1\Practico8-8\obj\Debug\Practico8-8.csprojAssemblyReference.cache
+C:\Users\Albaro\Documents\GitHub\actividad-pav1\Practico8-8\obj\Debug\Practico8_8.frmPrincipal.resources
+C:\Users\Albaro\Documents\GitHub\actividad-pav1\Practico8-8\obj\Debug\Practico8_8.frmLogin.resources
+C:\Users\Albaro\Documents\GitHub\actividad-pav1\Practico8-8\obj\Debug\Practico8_8.Properties.Resources.resources
+C:\Users\Albaro\Documents\GitHub\actividad-pav1\Practico8-8\obj\Debug\Practico8-8.csproj.GenerateResource.cache
+C:\Users\Albaro\Documents\GitHub\actividad-pav1\Practico8-8\obj\Debug\Practico8-8.csproj.CoreCompileInputs.cache
+C:\Users\Albaro\Documents\GitHub\actividad-pav1\Practico8-8\obj\Debug\Practico8-8.exe
+C:\Users\Albaro\Documents\GitHub\actividad-pav1\Practico8-8\obj\Debug\Practico8-8.pdb

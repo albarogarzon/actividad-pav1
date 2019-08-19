@@ -55,6 +55,7 @@ namespace Practico8_8
         private void btnSalir_Click(object sender, EventArgs e)
         {
             this.Close();
+            //Comentario agregado por Albaro! 
         }
 
         private void frmLogin_Load(object sender, EventArgs e)
