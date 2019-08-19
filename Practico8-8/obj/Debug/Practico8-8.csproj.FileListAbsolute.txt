@@ -1,0 +1,21 @@
+D:\PAV1\Practico8-8\Practico8-8\bin\Debug\Practico8-8.exe.config
+D:\PAV1\Practico8-8\Practico8-8\obj\Debug\Practico8-8.csprojResolveAssemblyReference.cache
+D:\PAV1\Practico8-8\Practico8-8\obj\Debug\Practico8_8.frmPrincipal.resources
+D:\PAV1\Practico8-8\Practico8-8\obj\Debug\Practico8_8.frmLogin.resources
+D:\PAV1\Practico8-8\Practico8-8\obj\Debug\Practico8_8.Properties.Resources.resources
+D:\PAV1\Practico8-8\Practico8-8\obj\Debug\Practico8-8.csproj.GenerateResource.Cache
+D:\PAV1\Practico8-8\Practico8-8\bin\Debug\Practico8-8.exe
+D:\PAV1\Practico8-8\Practico8-8\bin\Debug\Practico8-8.pdb
+D:\PAV1\Practico8-8\Practico8-8\obj\Debug\Practico8-8.exe
+D:\PAV1\Practico8-8\Practico8-8\obj\Debug\Practico8-8.pdb
+C:\Users\Albaro\Documents\3 er año\PAV1\Practico Clase\Practico8-8\Practico8-8\bin\Debug\Practico8-8.exe.config
+C:\Users\Albaro\Documents\3 er año\PAV1\Practico Clase\Practico8-8\Practico8-8\bin\Debug\Practico8-8.exe
+C:\Users\Albaro\Documents\3 er año\PAV1\Practico Clase\Practico8-8\Practico8-8\bin\Debug\Practico8-8.pdb
+C:\Users\Albaro\Documents\3 er año\PAV1\Practico Clase\Practico8-8\Practico8-8\obj\Debug\Practico8-8.csprojAssemblyReference.cache
+C:\Users\Albaro\Documents\3 er año\PAV1\Practico Clase\Practico8-8\Practico8-8\obj\Debug\Practico8_8.frmPrincipal.resources
+C:\Users\Albaro\Documents\3 er año\PAV1\Practico Clase\Practico8-8\Practico8-8\obj\Debug\Practico8_8.frmLogin.resources
+C:\Users\Albaro\Documents\3 er año\PAV1\Practico Clase\Practico8-8\Practico8-8\obj\Debug\Practico8_8.Properties.Resources.resources
+C:\Users\Albaro\Documents\3 er año\PAV1\Practico Clase\Practico8-8\Practico8-8\obj\Debug\Practico8-8.csproj.GenerateResource.cache
+C:\Users\Albaro\Documents\3 er año\PAV1\Practico Clase\Practico8-8\Practico8-8\obj\Debug\Practico8-8.csproj.CoreCompileInputs.cache
+C:\Users\Albaro\Documents\3 er año\PAV1\Practico Clase\Practico8-8\Practico8-8\obj\Debug\Practico8-8.exe
+C:\Users\Albaro\Documents\3 er año\PAV1\Practico Clase\Practico8-8\Practico8-8\obj\Debug\Practico8-8.pdb
