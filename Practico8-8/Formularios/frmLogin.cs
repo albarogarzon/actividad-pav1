@@ -60,7 +60,7 @@ namespace Practico8_8
 
         private void frmLogin_Load(object sender, EventArgs e)
         {
-
+            //Comentario de Ignacio:Esta función no esta hecha.
         }
     }
 }
