@@ -56,11 +56,13 @@ namespace Practico8_8
         {
             this.Close();
             //Comentario agregado por Albaro! 
+            
         }
 
         private void frmLogin_Load(object sender, EventArgs e)
         {
             //Comentario de Ignacio:Esta función no esta hecha.
+            //yo sigo teniendo esta funcionn!
         }
     }
 }
